@@ -1,6 +1,6 @@
 # Side project
 Full-stack developer
-1. 포트폴리오 블로그(Github pages 호스팅)
+1. Portfolio blog(Github pages 호스팅)
 	-> HTML/CSS/JS, PHP, MySQL
 2. swift iOS native application
 
