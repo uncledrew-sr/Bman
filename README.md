@@ -1,9 +1,3 @@
-# Side project
-Full-stack developer
-1. Portfolio blog(Github pages 호스팅)
-	-> HTML/CSS/JS, PHP, MySQL
-2. swift iOS native application
-
 ### B Man(비만)
 Be Man
 * 연속 러닝 : Duolingo 모티브. 매일 운동하고 자기관리하는 앱
